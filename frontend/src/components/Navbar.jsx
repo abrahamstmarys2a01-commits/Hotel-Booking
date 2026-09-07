@@ -40,7 +40,7 @@ export default function Navbar() {
       <div className="navbar-container">
         <a href="#home" className="logo" onClick={(e) => scrollToSection(e, 'home')}>
           <Sparkles className="logo-icon" size={24} />
-          <span className="logo-text">StayBook<br/><small>RESORT</small></span>
+          <span className="logo-text">NOVEL DIAMOND<br/><small>RESORT</small></span>
         </a>
         
         {/* Desktop Navigation */}

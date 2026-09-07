@@ -24,15 +24,21 @@ export default function Gallery() {
   }, []);
 
   const images = [
-    '/resort_pool.jpg',
-    'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b',
-    'https://images.unsplash.com/photo-1571896349842-33c89424de2d',
-    'https://images.unsplash.com/photo-1566073771259-6a8506099945',
-    'https://images.unsplash.com/photo-1611892440504-42a792e24d32',
-    'https://images.unsplash.com/photo-1631049307264-da0ec9d70304',
-    'https://images.unsplash.com/photo-1590490360182-c33d57733427',
-    'https://images.unsplash.com/photo-1520250497591-112f2f40a3f4',
-    'https://images.unsplash.com/photo-1540541338287-41700207dee6'
+    '/gallery1.jpg',
+    '/gallery2.jpg',
+    '/gallery3.jpg',
+    '/gallery4.jpg',
+    '/gallery5.jpg',
+    '/gallery6.jpg',
+    '/gallery7.jpg',
+    '/gallery8.jpg',
+    '/gallery9.jpg',
+    '/gallery10.jpg',
+    '/gallery11.jpg',
+    '/gallery12.jpg',
+    '/gallery13.jpg',
+    '/gallery14.jpg',
+    '/gallery15.jpg'
   ];
 
   return (

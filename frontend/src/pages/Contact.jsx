@@ -17,7 +17,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 style={{ marginBottom: '0.25rem' }}>Our Location</h4>
-                  <p style={{ color: 'var(--text-muted)' }}>123 Beach Road, Coastal Area,<br/>Chennai, Tamil Nadu - 600001</p>
+                  <p style={{ color: 'var(--text-muted)' }}>No 04, Building Society, Main Road, MM St,<br/>Kodaikanal, Tamil Nadu 624101</p>
                 </div>
               </div>
               

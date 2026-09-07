@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="contact-preview">
           <h3>Contact Preview</h3>
           <div className="contact-info-row">
-            <div className="info-item"><MapPin size={20}/> <p>123 Beach Road, Chennai,<br/>Tamil Nadu - 600001</p></div>
+            <div className="info-item"><MapPin size={20}/> <p>No 04, Building Society, Main Road, MM St,<br/>Kodaikanal, Tamil Nadu 620001</p></div>
             <div className="info-item"><Phone size={20}/> <p>+91 98765 43210</p></div>
             <div className="info-item"><Mail size={20}/> <p>info@staybookresort.com</p></div>
             <a href="#contact" className="btn-primary" style={{ display: 'inline-block' }}>Contact Us</a>
@@ -20,7 +20,7 @@ export default function Footer() {
           <div className="footer-brand">
             <a href="#home" className="logo white">
               <Sparkles className="logo-icon" size={24} />
-              <span className="logo-text">StayBook<br/><small>RESORT</small></span>
+              <span className="logo-text">NOVEL DIAMOND<br/><small>RESORT</small></span>
             </a>
           </div>
           <div className="footer-links">
@@ -34,7 +34,7 @@ export default function Footer() {
           </div>
           <div className="footer-contact">
             <h4>Contact Information</h4>
-            <p><MapPin size={16}/> 123 Beach Road, Chennai</p>
+            <p><MapPin size={18}/> No 04, Building Society, Main Road, MM St,<br/>Kodaikanal, Tamil Nadu 620001</p>
             <p><Phone size={16}/> +91 98765 43210</p>
             <p><Mail size={16}/> info@staybookresort.com</p>
           </div>
@@ -49,7 +49,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="footer-copyright">
-          <p>&copy; 2025 StayBook Resort. All rights reserved.</p>
+          <p>&copy; 2026 NOVEL DIAMOND RESORT. All rights reserved.</p>
         </div>
       </div>
     </footer>

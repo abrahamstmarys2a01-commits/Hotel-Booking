@@ -65,7 +65,7 @@ export default function Home() {
 
       <section className="section features-section">
         <div className="container">
-          <h2>Why Choose Us</h2>
+          {/* <h2>Why Choose Us</h2> */}
           <p className="section-subtitle">We provide the best experience for your perfect stay</p>
           
           <div className="features-grid">
@@ -100,7 +100,7 @@ export default function Home() {
           <p className="section-subtitle">Explore our world-class accommodations</p>
           <div className="rooms-grid" style={{ maxWidth: '800px', margin: '0 auto 3rem' }}>
             <div className="room-card wave-animate delay-1">
-              <img src="https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80" alt="Deluxe Room" style={{ objectFit: 'cover', height: '250px' }} />
+              <img src="/room1.jpg" alt="Deluxe Room" style={{ objectFit: 'cover', height: '250px' }} />
               <div className="room-info" style={{ textAlign: 'left' }}>
                 <h4>Deluxe Room</h4>
                 <p style={{ color: 'var(--text-muted)', marginBottom: '1rem' }}>Starting from ₹2,500 / night</p>
@@ -108,7 +108,7 @@ export default function Home() {
               </div>
             </div>
             <div className="room-card wave-animate delay-2">
-              <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80" alt="Executive Room" style={{ objectFit: 'cover', height: '250px' }} />
+              <img src="/room2.jpg" alt="Executive Room" style={{ objectFit: 'cover', height: '250px' }} />
               <div className="room-info" style={{ textAlign: 'left' }}>
                 <h4>Executive Room</h4>
                 <p style={{ color: 'var(--text-muted)', marginBottom: '1rem' }}>Starting from ₹3,500 / night</p>

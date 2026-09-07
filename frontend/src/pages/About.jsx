@@ -14,7 +14,7 @@ export default function About() {
             <a href="#gallery" className="btn-primary mt-4" style={{ display: 'inline-block' }}>View Gallery</a>
           </div>
           <div className="about-image">
-            <img src="/resort_pool.jpg" alt="Resort Pool" />
+            <img src="/about-img.jpg" alt="About StayBook Resort" style={{ objectFit: 'cover' }} />
           </div>
         </div>
       </section>

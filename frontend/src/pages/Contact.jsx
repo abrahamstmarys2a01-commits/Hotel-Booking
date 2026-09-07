@@ -7,7 +7,7 @@ export default function Contact() {
         <h2 style={{ textAlign: 'center', marginBottom: '1rem' }}>Contact Us</h2>
         <p className="section-subtitle">We would love to hear from you</p>
 
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '4rem', maxWidth: '1000px', margin: '0 auto' }}>
+        <div className="contact-grid" style={{ gap: '4rem', maxWidth: '1000px', margin: '0 auto' }}>
           <div>
             <h3 style={{ marginBottom: '1.5rem' }}>Get In Touch</h3>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>

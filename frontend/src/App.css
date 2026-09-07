@@ -534,6 +534,11 @@ body, html {
   box-shadow: var(--shadow-lg);
 }
 
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 .contact-info-row {
   display: flex;
   justify-content: space-between;
@@ -716,6 +721,11 @@ body, html {
     justify-content: center;
     padding: 1rem;
     min-height: 48px;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem !important;
   }
 
   .contact-info-row { flex-direction: column; gap: 1rem; align-items: flex-start; }

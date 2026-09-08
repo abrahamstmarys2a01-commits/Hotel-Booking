@@ -6,9 +6,9 @@ export default function Booking() {
   const [price, setPrice] = useState('2,500');
   
   const rooms = [
-    { name: 'Deluxe Room', price: '2,500', beds: 'King Bed', img: 'https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80' },
-    { name: 'Executive Room', price: '3,500', beds: 'King Bed', img: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80' },
-    { name: 'Suite Room', price: '5,000', beds: 'King Bed + Sofa', img: 'https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400&q=80' }
+    { name: 'Deluxe Room', price: '2,500', beds: 'King Bed', img: '/deluxe_room_updated.jpg' },
+    { name: 'Executive Room', price: '3,500', beds: 'King Bed', img: '/exec_room_new.jpg' },
+    { name: 'Suite Room', price: '5,000', beds: 'King Bed + Sofa', img: '/suite_room_new.jpg' }
   ];
 
   return (

@@ -32,7 +32,7 @@ export default function Home() {
         <div className="hero-content">
           <h1>Welcome to<br/>StayBook Resort</h1>
           <p className="hero-subtitle">Your Perfect Stay Starts Here</p>
-          <p className="hero-desc">Experience luxury, comfort and exceptional hospitality at StayBook Resort. A peaceful getaway in the heart of Chennai.</p>
+          <p className="hero-desc">Experience luxury, comfort and exceptional hospitality at StayBook Resort. A peaceful getaway in the heart of Koddaikanal.</p>
         </div>
         
         <div className="booking-widget">
